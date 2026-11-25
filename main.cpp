@@ -1,6 +1,7 @@
 // Authors: Hao Yu Vidal Huang Tan, Uziel Cruceta Duran, Luis Pineda
 // Date: 11/23/2026
 // CS 103 - Hackathon 2
+ /* the following 3d camera method is from raylibs 3d camera view by Ramon Santamaria (@raysan5) which we wanted to use as the base for our idea, with the shape we draw becoming different */
 #include "DNAControls.h"
 #include "raylib.h"
 #include <iostream>
